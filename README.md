@@ -1,1 +1,1 @@
-Interesting features: CRUD functions in parent children, reference a child component
+Interesting features: CRUD functions in parent component, reference a child component
